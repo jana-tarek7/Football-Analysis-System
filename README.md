@@ -19,7 +19,7 @@ Player performance analytics, including speed, distance covered, and movement tr
 End-to-end video analysis pipeline built with Python, OpenCV, and modern deep learning techniques
 
 This project demonstrates the practical application of computer vision and machine learning techniques in sports analytics, integrating object detection, tracking, clustering, motion estimation, and geometric transformations into a unified analysis framework.
-Datasets:
+# Datasets:
 kaggle Dataset: https://www.kaggle.com/competitions/d... Video link used because Kaggle removed the videos from the kaggle dataset above: https://drive.google.com/file/d/1t6ag... Robowflow Football Dataset: https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1
 
 Dependencies:
